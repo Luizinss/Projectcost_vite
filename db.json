@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "id": "4843",
+      "name": "Website Pod",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "f583",
+      "name": "Luizin",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "budget": "22222",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "7efa",
+      "name": "Dev php",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
